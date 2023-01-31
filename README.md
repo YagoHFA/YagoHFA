@@ -11,6 +11,7 @@
 <div class = "Imagem">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width= "40" height="40" /><imgsrc="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width= "40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width= "40" height="40"/>
           <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width= "40" height="40"/>
+            <img src = "[https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg](https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg)" width= "40" height="40"/>
 </div>
           
             
