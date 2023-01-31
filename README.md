@@ -1,6 +1,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoHFA&show_icons=true&theme=tokyonight)
 
-.img.icone{
+.img{
             display: flex;
             flex-direction: row;
 }
