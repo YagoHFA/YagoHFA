@@ -3,7 +3,7 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YagoHFA&layout=compact)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YagoHFA&layout=compact)
 
 
 <h2> Tenho conhecimento em:</h2>
