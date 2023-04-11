@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.sigma-five.vercel.app/api?username=YagoHFA&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=YagoHFA&show_icons=true&theme=tokyonight)
 
 
 
