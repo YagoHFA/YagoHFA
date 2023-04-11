@@ -20,9 +20,6 @@
   <img src = "https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width= "40" height="40"/>
   <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Spring-Dark.svg" width= "40" height="40"/>
   <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/DotNet.svg " width= "40" height="40"/>
-  
-  
-  
 </div>
           
             
