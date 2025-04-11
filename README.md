@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=YagoHFA&layout=compact)
 
 
-<h2> Tenho conhecimento em:</h2>
+<h2>I have knowledge of:</h2>
 
 <div class = "Imagem">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width= "40" height="40" /> 
