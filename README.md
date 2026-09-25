@@ -37,4 +37,7 @@ Databases & Tools
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="45" height="45" alt="Git" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg" width="45" height="45" alt="MSSQL"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/githubactions/githubactions-original-wordmark.svg" width="45" height="45" alt="Actions"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azure/azure-original.svg" width="45" height="45" alt="Azure"/>
 </p>
